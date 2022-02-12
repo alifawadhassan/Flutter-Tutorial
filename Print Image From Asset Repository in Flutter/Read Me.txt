@@ -1,0 +1,9 @@
+1. Create a repository with name "images"
+2. Upload All the images there which you want to use
+3. In a pubspec.yaml search assets and un-comment the assets and the next lines as mentioned below
+	assets:
+     		- images/ 
+Note: word assets alignment must be 2 space from the left side 
+
+4. Copy the Code from main.dart file and paste in your project
+Note: use that name of image , which is the name of your image at here ( "images/a.png" )
