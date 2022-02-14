@@ -1,0 +1,1 @@
+*) Create new flutter project and Copy and paste complete code in main.dart file
